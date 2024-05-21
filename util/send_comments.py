@@ -17,7 +17,7 @@ def send_comments(links, driver):
     linkz = data.split("\n")
     total_links = len(linkz)
     print("Total links: " + str(len(linkz)))
-    comment = '<a href="https://www.budiluhur.ac.id/" rel="dofollow">Thank you for the article!</a>'
+    comment = '<a href="https://singkatin.my.id/MKTOTO1" rel="dofollow">SLOt gacor mktoto!</a>'
 
     for i in range(len(linkz)):
 
